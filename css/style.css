@@ -1,0 +1,15 @@
+.sombreado{
+    -webkit-box-shadow: 5px 0px 0px 1px rgba(0,0,0,0.69); 
+    box-shadow: 5px 0px 0px 1px rgba(0,0,0,0.69);
+}
+.card{
+    height: 190px;
+}
+.nav-item:hover{
+    font-size: 20px;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
